@@ -25,7 +25,7 @@
 		is not allowed) than it might be to find people with 100% valid hunting
 		or fishing licences, or if they’re using a legal firearm.
 	</p>
-	<img src="/warden.png" alt="Game Warden" />
+	<img src="warden.png" alt="Game Warden" />
 	<p>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enough with the
 		questions, let’s talk about how and why you might want to become a game
@@ -55,14 +55,14 @@
 		Bachelors of Science In Criminal Justice, and finally Rasmussen University
 		for Online Associates and Bachelors in Criminal Justice Leadership Management.
 	</p>
-	<img src="/image1.png" alt="Graph of jobs" />
+	<img src="image1.png" alt="Graph of jobs" />
 	<p>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Let’s take a look at
 		some statistics now. The Game Warden job is very stable, with only a
 		slight rise in 2018, otherwise, it’s very stable and not projected to
 		change much, this graph shows employment of Game Wardens for each year.
 	</p>
-	<img src="/image2.png" alt="Game Warden Popularity" />
+	<img src="image2.png" alt="Game Warden Popularity" />
 	<p>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This graph here shows
 		Game Warden popularity per state, as you can see here, the top states
